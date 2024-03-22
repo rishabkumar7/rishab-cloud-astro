@@ -17,10 +17,14 @@ const projects: Project[] = [
     link: "https://thedevops.guide/",
   },
   {
-    title: "Portfolio / Template",
-    techs: ["Astro"],
-    link: "/",
-    isComingSoon: true,
+    title: "7 Days of Python",
+    techs: ["Python", "Cloud", "DevOps"],
+    link: "https://7daysofpython.com/",
+  },
+  {
+    title: "Cloud Resume API",
+    techs: ["Serverless","AWS", "Azure", "GCP"],
+    link: "https://cloudresumeapi.dev/",
   },
 ];
 
