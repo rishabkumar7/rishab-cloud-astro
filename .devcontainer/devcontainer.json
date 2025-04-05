@@ -3,8 +3,6 @@
       "dockerfile": "Dockerfile"
     },
   
-    "workspaceFolder": "/workspaces/astro/examples/portfolio",
-  
     "portsAttributes": {
       "4321": {
         "label": "Application",
