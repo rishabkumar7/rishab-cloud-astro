@@ -1,9 +1,8 @@
 ---
-title: "Untitled"
-publishedAt: 2023-05-24
-description: "Lorem ipsum dolor sit amet consectetur et ultrices blandit neque ege"
-slug: "untitled"
+title: "FastAPI as AWS Lambda Function"
+publishedAt: 2025-02-21
+description: "Deploy a FastAPI application to AWS Lambda"
+slug: "fastapi-as-aws-lambda-function"
 isPublish: true
 ---
 
-## Hello World
